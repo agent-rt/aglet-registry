@@ -28,7 +28,7 @@
   ],
   "screenshots": [
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/0.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/0.webp",
       "surface": "macos",
       "theme": "dark",
       "locale": "en",
@@ -36,7 +36,7 @@
       "caption": "Read SSPAI, natively"
     },
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/1.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/1.webp",
       "surface": "macos",
       "theme": "dark",
       "locale": "en",
@@ -44,7 +44,7 @@
       "caption": "Dive into Matrix stories"
     },
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/2.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/2.webp",
       "surface": "macos",
       "theme": "dark",
       "locale": "zh",
@@ -52,7 +52,7 @@
       "caption": "原生阅读少数派"
     },
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/3.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/3.webp",
       "surface": "macos",
       "theme": "dark",
       "locale": "zh",
@@ -60,7 +60,7 @@
       "caption": "沉浸阅读 Matrix 专栏"
     },
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/4.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/4.webp",
       "surface": "macos",
       "theme": "light",
       "locale": "en",
@@ -68,7 +68,7 @@
       "caption": "Read SSPAI, natively"
     },
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/5.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/5.webp",
       "surface": "macos",
       "theme": "light",
       "locale": "en",
@@ -76,7 +76,7 @@
       "caption": "Dive into Matrix stories"
     },
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/6.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/6.webp",
       "surface": "macos",
       "theme": "light",
       "locale": "zh",
@@ -84,7 +84,7 @@
       "caption": "原生阅读少数派"
     },
     {
-      "url": "https://registry.aglet.dev/aglets/sspai/0.1.2/screenshots/7.webp",
+      "url": "https://registry.aglet.dev/aglets/sspai/0.1.3/screenshots/7.webp",
       "surface": "macos",
       "theme": "light",
       "locale": "zh",
@@ -92,12 +92,19 @@
       "caption": "沉浸阅读 Matrix 专栏"
     }
   ],
+  "min_runtime": "0.1.8",
+  "requires": [
+    {
+      "plugin": "xml",
+      "version": ">=0.1.0"
+    }
+  ],
   "platforms": [
     "apple",
     "android",
     "windows"
   ],
-  "latest": "0.1.2",
+  "latest": "0.1.3",
   "versions": [
     {
       "version": "0.1.0",
@@ -110,6 +117,12 @@
       "file": "0.1.2.aglet",
       "sha256": "f3e2bee92414e948aedf4580811b6ea1808698c1b5de1c88079b3f78b77bf91b",
       "published_at": "2026-07-23T07:35:33Z"
+    },
+    {
+      "version": "0.1.3",
+      "file": "0.1.3.aglet",
+      "sha256": "c06e5cbf6d92667f55ecbe23ea26777e0f113385edc87b70d6c4448c887a3fe4",
+      "published_at": "2026-08-04T10:09:42Z"
     }
   ]
 }

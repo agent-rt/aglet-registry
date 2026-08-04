@@ -1,0 +1,44 @@
+{
+  "id": "reminders",
+  "name": {
+    "default": "Reminders",
+    "zh": "提醒",
+    "ja": "リマインダー"
+  },
+  "description": {
+    "default": "Lightweight reminders with optional due time. Schedules native OS notifications at the due time.",
+    "zh": "轻量提醒，可选截止时间。到点由系统原生通知（OS 排程，无需轮询）。",
+    "ja": "軽量リマインダー、任意で締切時刻。締切時に OS ネイティブ通知（スケジュール投递）。"
+  },
+  "author": "agent-rt",
+  "license": "MIT",
+  "icon": "https://api.iconify.design/ph/bell-fill.svg?color=%23ef6f5f&width=256",
+  "category": "productivity",
+  "keywords": [
+    "reminders",
+    "todo",
+    "tasks",
+    "notify"
+  ],
+  "screenshots": [
+    {
+      "url": "https://registry.aglet.dev/aglets/reminders/1.0.0/screenshots/0.png",
+      "caption": "Active reminders list"
+    }
+  ],
+  "min_runtime": "0.1.8",
+  "platforms": [
+    "apple",
+    "android",
+    "windows"
+  ],
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "1.0.0.aglet",
+      "sha256": "54dc27220eb823cd9c0753b8244e181755b89e556c412084d25991b3537cbe03",
+      "published_at": "2026-08-04T11:23:19Z"
+    }
+  ]
+}

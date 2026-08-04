@@ -1,0 +1,44 @@
+{
+  "id": "qrcode",
+  "name": {
+    "default": "QR Code",
+    "zh": "二维码",
+    "ja": "QRコード"
+  },
+  "description": {
+    "default": "Generate and read QR & barcodes — local, private, offline.",
+    "zh": "生成与识别二维码 / 条码 —— 本地、私密、离线。",
+    "ja": "QR・バーコードの生成と読み取り —— ローカル・プライベート・オフライン。"
+  },
+  "icon": {
+    "fg": "qr-code",
+    "bg": "#6366f1"
+  },
+  "category": "productivity",
+  "min_runtime": "0.2.0",
+  "requires": [
+    {
+      "plugin": "barcode",
+      "version": ">=0.1.2"
+    },
+    {
+      "plugin": "clipboard"
+    },
+    {
+      "plugin": "fs"
+    }
+  ],
+  "platforms": [
+    "apple",
+    "windows"
+  ],
+  "latest": "0.1.0",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "file": "0.1.0.aglet",
+      "sha256": "59ca70e314e0f2e17c49b7fc5319c3729ece2d39e7d582b27ce2ce4da367da4c",
+      "published_at": "2026-08-04T06:29:35Z"
+    }
+  ]
+}

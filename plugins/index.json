@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-24T09:29:57Z",
+  "generated_at": "2026-08-04T06:26:18Z",
   "plugins": [
+    {
+      "id": "barcode",
+      "name": "Barcode",
+      "description": {
+        "default": "Barcode & QR encode / decode (zxing-cpp).",
+        "zh": "条码 / 二维码编解码(zxing-cpp)。",
+        "ja": "バーコード / QR のエンコード・デコード(zxing-cpp)。"
+      },
+      "keywords": [
+        "barcode",
+        "qr",
+        "encode",
+        "decode",
+        "zxing"
+      ],
+      "homepage": "https://github.com/aglet-dev/plugins",
+      "license": "MIT",
+      "namespace": "barcode",
+      "backend_kind": "wasm",
+      "actions_count": 3,
+      "latest": "0.1.2",
+      "wasm_size": 1148425,
+      "updated_at": "2026-08-04T06:24:53Z"
+    },
     {
       "id": "sysmon",
       "name": "Sysmon",
@@ -171,30 +195,6 @@
       "latest": "0.1.0",
       "wasm_size": 427587,
       "updated_at": "2026-06-27T03:32:55Z"
-    },
-    {
-      "id": "barcode",
-      "name": "Barcode",
-      "description": {
-        "default": "Barcode & QR encode / decode (zxing-cpp).",
-        "zh": "条码 / 二维码编解码(zxing-cpp)。",
-        "ja": "バーコード / QR のエンコード・デコード(zxing-cpp)。"
-      },
-      "keywords": [
-        "barcode",
-        "qr",
-        "encode",
-        "decode",
-        "zxing"
-      ],
-      "homepage": "https://github.com/aglet-dev/plugins",
-      "license": "MIT",
-      "namespace": "barcode",
-      "backend_kind": "wasm",
-      "actions_count": 2,
-      "latest": "0.1.0",
-      "wasm_size": 1059903,
-      "updated_at": "2026-06-27T03:32:54Z"
     },
     {
       "id": "crypto",

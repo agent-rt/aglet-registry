@@ -1,0 +1,31 @@
+{
+  "id": "shots-studio",
+  "name": {
+    "default": "Shots Studio",
+    "en": "Shots Studio",
+    "zh": "截图工作室",
+    "ja": "ショットスタジオ"
+  },
+  "description": {
+    "default": "Compose captured app-window screenshots into App Store–style marketing shots.",
+    "en": "Compose captured app-window screenshots into App Store–style marketing shots.",
+    "zh": "把捕获的 app 窗口截图合成成 App Store 风格营销图。",
+    "ja": "取得したアプリ画面を App Store 風のマーケティング画像に合成。"
+  },
+  "icon": "https://api.iconify.design/ph/image-square-fill.svg?color=%232f6fed&width=256",
+  "min_runtime": "0.1.7",
+  "platforms": [
+    "apple",
+    "android",
+    "windows"
+  ],
+  "latest": "0.1.2",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "file": "0.1.2.aglet",
+      "sha256": "84632eec33f71447feffe5c5e9e4dfdf076839004e44d6db1b32b87d92200e92",
+      "published_at": "2026-08-04T06:31:04Z"
+    }
+  ]
+}

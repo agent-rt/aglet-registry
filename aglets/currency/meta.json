@@ -1,0 +1,32 @@
+{
+  "id": "currency",
+  "name": {
+    "default": "Currency",
+    "zh": "汇率",
+    "ja": "為替"
+  },
+  "description": {
+    "default": "Live currency converter — type an amount, see it in every currency.",
+    "zh": "实时汇率换算 —— 输入金额,一眼看遍各币种。",
+    "ja": "リアルタイム為替換算 —— 金額を入力すると全通貨で表示。"
+  },
+  "icon": {
+    "fg": "currency-circle-dollar",
+    "bg": "#14b8a6"
+  },
+  "category": "productivity",
+  "min_runtime": "0.1.8",
+  "platforms": [
+    "apple",
+    "windows"
+  ],
+  "latest": "0.1.0",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "file": "0.1.0.aglet",
+      "sha256": "566719d13f667308c1b1602a20ef676c90e1d0e296b7a94bf79a2643973d39bf",
+      "published_at": "2026-08-04T06:33:01Z"
+    }
+  ]
+}

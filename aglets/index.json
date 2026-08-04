@@ -1,6 +1,198 @@
 {
-  "generated_at": "2026-08-04T06:26:18Z",
+  "generated_at": "2026-08-04T06:37:48Z",
   "aglets": [
+    {
+      "id": "icon-studio",
+      "name": {
+        "default": "Icon Studio",
+        "en": "Icon Studio",
+        "zh": "图标工作室",
+        "ja": "アイコンスタジオ"
+      },
+      "description": {
+        "default": "Generate built-in app icons — a Phosphor glyph on a rounded brand-color badge, captured 512² for the store/tray.",
+        "en": "Generate built-in app icons — a Phosphor glyph on a rounded brand-color badge, captured 512² for the store/tray.",
+        "zh": "生成内置 app 图标 —— 品牌色圆角徽标上摆 Phosphor 符号。",
+        "ja": "内蔵アプリアイコンを生成 —— 角丸ブランドカラー地に Phosphor グリフ。"
+      },
+      "icon": "https://api.iconify.design/ph/app-window-fill.svg?color=%232f6fed&width=256",
+      "platforms": [
+        "apple",
+        "android",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-04T06:35:23Z"
+    },
+    {
+      "id": "tomato",
+      "name": {
+        "default": "Pomodoro",
+        "zh": "番茄钟",
+        "ja": "ポモドーロ"
+      },
+      "description": {
+        "default": "Menu-bar Pomodoro timer with a forced full-screen break lock.",
+        "zh": "菜单栏番茄钟 —— 专注计时 + 强制全屏休息锁定。",
+        "ja": "メニューバー・ポモドーロ —— 集中タイマー + 強制全画面休憩ロック。"
+      },
+      "icon": {
+        "fg": "timer",
+        "bg": "#ef4444"
+      },
+      "category": "productivity",
+      "platforms": [
+        "apple",
+        "android",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-04T06:34:35Z"
+    },
+    {
+      "id": "unitconv",
+      "name": {
+        "default": "Convert",
+        "zh": "换算",
+        "ja": "変換"
+      },
+      "description": {
+        "default": "Unit converter — length, weight, temperature, data. Type once, see every unit.",
+        "zh": "单位换算 —— 长度、重量、温度、数据。输入一次,所有单位实时换算。",
+        "ja": "単位換算 —— 長さ・重さ・温度・データ。入力すると全単位を即換算。"
+      },
+      "icon": {
+        "fg": "ruler",
+        "bg": "#14b8a6"
+      },
+      "category": "productivity",
+      "platforms": [
+        "apple",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-04T06:33:43Z"
+    },
+    {
+      "id": "currency",
+      "name": {
+        "default": "Currency",
+        "zh": "汇率",
+        "ja": "為替"
+      },
+      "description": {
+        "default": "Live currency converter — type an amount, see it in every currency.",
+        "zh": "实时汇率换算 —— 输入金额,一眼看遍各币种。",
+        "ja": "リアルタイム為替換算 —— 金額を入力すると全通貨で表示。"
+      },
+      "icon": {
+        "fg": "currency-circle-dollar",
+        "bg": "#14b8a6"
+      },
+      "category": "productivity",
+      "platforms": [
+        "apple",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-04T06:33:01Z"
+    },
+    {
+      "id": "shots-studio",
+      "name": {
+        "default": "Shots Studio",
+        "en": "Shots Studio",
+        "zh": "截图工作室",
+        "ja": "ショットスタジオ"
+      },
+      "description": {
+        "default": "Compose captured app-window screenshots into App Store–style marketing shots.",
+        "en": "Compose captured app-window screenshots into App Store–style marketing shots.",
+        "zh": "把捕获的 app 窗口截图合成成 App Store 风格营销图。",
+        "ja": "取得したアプリ画面を App Store 風のマーケティング画像に合成。"
+      },
+      "icon": "https://api.iconify.design/ph/image-square-fill.svg?color=%232f6fed&width=256",
+      "platforms": [
+        "apple",
+        "android",
+        "windows"
+      ],
+      "latest": "0.1.2",
+      "updated_at": "2026-08-04T06:31:04Z"
+    },
+    {
+      "id": "scratch",
+      "name": {
+        "default": "Scratch",
+        "zh": "随手记",
+        "ja": "さっとメモ"
+      },
+      "description": {
+        "default": "Jot a line, drop a file — markdown, searchable, always at hand.",
+        "zh": "随手记一段话、拖个文件进来 —— markdown 渲染,可搜,随时翻。",
+        "ja": "ひとことメモ、ファイルをドロップ —— markdown 対応・検索可能。"
+      },
+      "icon": {
+        "fg": "note-pencil",
+        "bg": "#f59e0b"
+      },
+      "category": "productivity",
+      "platforms": [
+        "apple",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-04T06:30:41Z"
+    },
+    {
+      "id": "clips",
+      "name": {
+        "default": "Clipboard",
+        "zh": "剪贴板",
+        "ja": "クリップボード"
+      },
+      "description": {
+        "default": "Clipboard history — every copy, one click to paste back. Local & private.",
+        "zh": "剪贴板历史 —— 每次复制都留痕,一键回填。本地、私密。",
+        "ja": "クリップボード履歴 —— コピーを記録し、ワンクリックで貼り戻し。ローカル・プライベート。"
+      },
+      "icon": {
+        "fg": "clipboard",
+        "bg": "#0ea5e9"
+      },
+      "category": "productivity",
+      "platforms": [
+        "apple",
+        "android",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-04T06:30:04Z"
+    },
+    {
+      "id": "qrcode",
+      "name": {
+        "default": "QR Code",
+        "zh": "二维码",
+        "ja": "QRコード"
+      },
+      "description": {
+        "default": "Generate and read QR & barcodes — local, private, offline.",
+        "zh": "生成与识别二维码 / 条码 —— 本地、私密、离线。",
+        "ja": "QR・バーコードの生成と読み取り —— ローカル・プライベート・オフライン。"
+      },
+      "icon": {
+        "fg": "qr-code",
+        "bg": "#6366f1"
+      },
+      "category": "productivity",
+      "platforms": [
+        "apple",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-04T06:29:35Z"
+    },
     {
       "id": "tokstat",
       "name": {

@@ -1,0 +1,40 @@
+{
+  "id": "scratch",
+  "name": {
+    "default": "Scratch",
+    "zh": "随手记",
+    "ja": "さっとメモ"
+  },
+  "description": {
+    "default": "Jot a line, drop a file — markdown, searchable, always at hand.",
+    "zh": "随手记一段话、拖个文件进来 —— markdown 渲染,可搜,随时翻。",
+    "ja": "ひとことメモ、ファイルをドロップ —— markdown 対応・検索可能。"
+  },
+  "icon": {
+    "fg": "note-pencil",
+    "bg": "#f59e0b"
+  },
+  "category": "productivity",
+  "min_runtime": "0.2.0",
+  "requires": [
+    {
+      "plugin": "fs"
+    },
+    {
+      "plugin": "image"
+    }
+  ],
+  "platforms": [
+    "apple",
+    "windows"
+  ],
+  "latest": "0.1.0",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "file": "0.1.0.aglet",
+      "sha256": "1f8feb608f9febf44d31cd839f2c1a28784f2c1cb737c5acd4bf19d14cfbbb19",
+      "published_at": "2026-08-04T06:30:41Z"
+    }
+  ]
+}

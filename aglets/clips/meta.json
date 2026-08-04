@@ -1,0 +1,41 @@
+{
+  "id": "clips",
+  "name": {
+    "default": "Clipboard",
+    "zh": "剪贴板",
+    "ja": "クリップボード"
+  },
+  "description": {
+    "default": "Clipboard history — every copy, one click to paste back. Local & private.",
+    "zh": "剪贴板历史 —— 每次复制都留痕,一键回填。本地、私密。",
+    "ja": "クリップボード履歴 —— コピーを記録し、ワンクリックで貼り戻し。ローカル・プライベート。"
+  },
+  "icon": {
+    "fg": "clipboard",
+    "bg": "#0ea5e9"
+  },
+  "category": "productivity",
+  "min_runtime": "0.2.0",
+  "requires": [
+    {
+      "plugin": "clipboard"
+    },
+    {
+      "plugin": "hotkey"
+    }
+  ],
+  "platforms": [
+    "apple",
+    "android",
+    "windows"
+  ],
+  "latest": "0.1.0",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "file": "0.1.0.aglet",
+      "sha256": "57aeadb8a3c025cd1eda23b6dba656eeb01331a6c655abd9b5955f9f97d3f497",
+      "published_at": "2026-08-04T06:30:04Z"
+    }
+  ]
+}

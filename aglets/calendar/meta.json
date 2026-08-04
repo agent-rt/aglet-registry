@@ -1,0 +1,38 @@
+{
+  "id": "calendar",
+  "name": {
+    "default": "Up Next",
+    "zh": "接下来",
+    "ja": "次の予定"
+  },
+  "description": {
+    "default": "Your next calendar event in the menu bar. Reads the system calendar locally — nothing leaves your Mac.",
+    "zh": "菜单栏显示接下来的日程。只在本机读取系统日历，数据不出本机。",
+    "ja": "次の予定をメニューバーに表示。システムカレンダーをローカルで読むだけで、外部送信はしません。"
+  },
+  "author": "aglet-dev",
+  "license": "MIT",
+  "icon": "https://api.iconify.design/ph/calendar-dots-fill.svg?color=%234c8bf5&width=256",
+  "category": "productivity",
+  "keywords": [
+    "calendar",
+    "agenda",
+    "schedule",
+    "meetings"
+  ],
+  "min_runtime": "0.3.0",
+  "platforms": [
+    "apple",
+    "android",
+    "windows"
+  ],
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "file": "1.0.0.aglet",
+      "sha256": "41e98e1a8c630da894d5e2ae59978a1c2525438b9c3b84f005c31c492aa56614",
+      "published_at": "2026-08-04T14:38:29Z"
+    }
+  ]
+}

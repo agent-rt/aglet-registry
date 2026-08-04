@@ -24,6 +24,10 @@
     {
       "name": "decode",
       "permission": "barcode:decode"
+    },
+    {
+      "name": "readImage",
+      "permission": "barcode:decode"
     }
   ],
   "backend_kind": "wasm",
@@ -35,7 +39,15 @@
       "wasm_sha256": "834d8e03cfde4e5dd671d8abb191d1640851c3dbb0c7dd49f793720e4d26e10a",
       "wasm_size": 1059903,
       "published_at": "2026-06-27T03:32:54Z"
+    },
+    {
+      "version": "0.1.2",
+      "file": "0.1.2.aplugin",
+      "sha256": "31ea77efe493600a6f593c5731ee3bf135528d0bc36b7a260cf157d5d0fbdc98",
+      "wasm_sha256": "67d695093445c201e7c362fe7e5a9f8279e61025ca5dfeee9be0b1f71cc60d92",
+      "wasm_size": 1148425,
+      "published_at": "2026-08-04T06:24:53Z"
     }
   ],
-  "latest": "0.1.0"
+  "latest": "0.1.2"
 }

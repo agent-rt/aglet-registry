@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-08-04T14:39:18Z",
+  "generated_at": "2026-08-05T08:28:20Z",
   "aglets": [
+    {
+      "id": "jira",
+      "name": {
+        "default": "Jira",
+        "zh": "Jira 工单",
+        "ja": "Jira 課題"
+      },
+      "description": {
+        "default": "My assigned Jira issues, grouped by status. Connects via Atlassian REST API + API token.",
+        "zh": "分配给我的 Jira 工单，按状态分桶。用 Atlassian REST API + API token 直连（零外部 CLI）。",
+        "ja": "自分にアサインされた Jira 課題。Atlassian REST API + API トークンで直接接続。"
+      },
+      "author": "agent-rt",
+      "icon": "https://api.iconify.design/ph/kanban-fill.svg?color=%230052cc&width=256",
+      "category": "productivity",
+      "keywords": [
+        "jira",
+        "issues",
+        "atlassian",
+        "api-token"
+      ],
+      "screenshots": [
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/0.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "en",
+          "frame": "doing",
+          "caption": "Everything assigned to you, at a glance"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/1.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "en",
+          "frame": "todo",
+          "caption": "Due dates that actually stand out"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/2.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "zh",
+          "frame": "doing",
+          "caption": "分配给我的工单，一眼看完"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/3.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "zh",
+          "frame": "todo",
+          "caption": "截止日按紧急度着色"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/4.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "en",
+          "frame": "doing",
+          "caption": "Everything assigned to you, at a glance"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/5.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "en",
+          "frame": "todo",
+          "caption": "Due dates that actually stand out"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/6.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "zh",
+          "frame": "doing",
+          "caption": "分配给我的工单，一眼看完"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/jira/0.1.0/screenshots/7.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "zh",
+          "frame": "todo",
+          "caption": "截止日按紧急度着色"
+        }
+      ],
+      "platforms": [
+        "apple",
+        "android",
+        "windows"
+      ],
+      "latest": "0.1.0",
+      "updated_at": "2026-08-05T07:38:51Z"
+    },
     {
       "id": "calendar",
       "name": {

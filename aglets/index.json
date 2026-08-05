@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:13:47Z",
+  "generated_at": "2026-08-05T09:30:30Z",
   "aglets": [
     {
       "id": "hn",
@@ -31,7 +31,7 @@
       ],
       "screenshots": [
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/0.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/0.webp",
           "surface": "macos",
           "theme": "dark",
           "locale": "en",
@@ -39,7 +39,7 @@
           "caption": "Your feeds, beautifully native"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/1.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/1.webp",
           "surface": "macos",
           "theme": "dark",
           "locale": "en",
@@ -47,7 +47,7 @@
           "caption": "Keep what you love"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/2.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/2.webp",
           "surface": "macos",
           "theme": "dark",
           "locale": "en",
@@ -55,7 +55,7 @@
           "caption": "Mute the noise"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/3.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/3.webp",
           "surface": "macos",
           "theme": "dark",
           "locale": "zh",
@@ -63,7 +63,7 @@
           "caption": "原生质感的信息流"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/4.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/4.webp",
           "surface": "macos",
           "theme": "dark",
           "locale": "zh",
@@ -71,7 +71,7 @@
           "caption": "收藏你喜欢的"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/5.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/5.webp",
           "surface": "macos",
           "theme": "dark",
           "locale": "zh",
@@ -79,7 +79,7 @@
           "caption": "屏蔽噪音"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/6.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/6.webp",
           "surface": "macos",
           "theme": "light",
           "locale": "en",
@@ -87,7 +87,7 @@
           "caption": "Your feeds, beautifully native"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/7.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/7.webp",
           "surface": "macos",
           "theme": "light",
           "locale": "en",
@@ -95,7 +95,7 @@
           "caption": "Keep what you love"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/8.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/8.webp",
           "surface": "macos",
           "theme": "light",
           "locale": "en",
@@ -103,7 +103,7 @@
           "caption": "Mute the noise"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/9.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/9.webp",
           "surface": "macos",
           "theme": "light",
           "locale": "zh",
@@ -111,7 +111,7 @@
           "caption": "原生质感的信息流"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/10.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/10.webp",
           "surface": "macos",
           "theme": "light",
           "locale": "zh",
@@ -119,7 +119,7 @@
           "caption": "收藏你喜欢的"
         },
         {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/11.webp",
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.5/screenshots/11.webp",
           "surface": "macos",
           "theme": "light",
           "locale": "zh",
@@ -132,8 +132,8 @@
         "android",
         "windows"
       ],
-      "latest": "0.1.4",
-      "updated_at": "2026-08-05T09:12:55Z"
+      "latest": "0.1.5",
+      "updated_at": "2026-08-05T09:30:01Z"
     },
     {
       "id": "jira",

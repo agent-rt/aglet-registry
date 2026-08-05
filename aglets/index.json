@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-08-05T08:28:20Z",
+  "generated_at": "2026-08-05T09:13:47Z",
   "aglets": [
+    {
+      "id": "hn",
+      "name": {
+        "default": "HN Reader",
+        "en": "HN Reader",
+        "zh": "HN 中文",
+        "ja": "HN 日本語"
+      },
+      "description": {
+        "default": "Agent-translated HackerNews reader with like / block lists.",
+        "en": "Agent-translated HackerNews reader with like / block lists.",
+        "zh": "HackerNews 中文化阅读器：Agent 翻译 + 总结，用户点赞/屏蔽。",
+        "ja": "Agent が翻訳・要約した HackerNews。お気に入りとブロックに対応。"
+      },
+      "author": "aglet-dev",
+      "license": "MIT",
+      "icon": {
+        "fg": "fire-fill",
+        "bg": "#ff6600"
+      },
+      "category": "media",
+      "keywords": [
+        "hackernews",
+        "hn",
+        "reader",
+        "translated",
+        "chinese"
+      ],
+      "screenshots": [
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/0.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "en",
+          "frame": "feed",
+          "caption": "Your feeds, beautifully native"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/1.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "en",
+          "frame": "liked",
+          "caption": "Keep what you love"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/2.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "en",
+          "frame": "blocked",
+          "caption": "Mute the noise"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/3.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "zh",
+          "frame": "feed",
+          "caption": "原生质感的信息流"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/4.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "zh",
+          "frame": "liked",
+          "caption": "收藏你喜欢的"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/5.webp",
+          "surface": "macos",
+          "theme": "dark",
+          "locale": "zh",
+          "frame": "blocked",
+          "caption": "屏蔽噪音"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/6.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "en",
+          "frame": "feed",
+          "caption": "Your feeds, beautifully native"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/7.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "en",
+          "frame": "liked",
+          "caption": "Keep what you love"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/8.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "en",
+          "frame": "blocked",
+          "caption": "Mute the noise"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/9.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "zh",
+          "frame": "feed",
+          "caption": "原生质感的信息流"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/10.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "zh",
+          "frame": "liked",
+          "caption": "收藏你喜欢的"
+        },
+        {
+          "url": "https://registry.aglet.dev/aglets/hn/0.1.4/screenshots/11.webp",
+          "surface": "macos",
+          "theme": "light",
+          "locale": "zh",
+          "frame": "blocked",
+          "caption": "屏蔽噪音"
+        }
+      ],
+      "platforms": [
+        "apple",
+        "android",
+        "windows"
+      ],
+      "latest": "0.1.4",
+      "updated_at": "2026-08-05T09:12:55Z"
+    },
     {
       "id": "jira",
       "name": {
@@ -1415,140 +1549,6 @@
       ],
       "latest": "0.1.3",
       "updated_at": "2026-07-23T07:28:02Z"
-    },
-    {
-      "id": "hn",
-      "name": {
-        "default": "HN Reader",
-        "en": "HN Reader",
-        "zh": "HN 中文",
-        "ja": "HN 日本語"
-      },
-      "description": {
-        "default": "Agent-translated HackerNews reader with like / block lists.",
-        "en": "Agent-translated HackerNews reader with like / block lists.",
-        "zh": "HackerNews 中文化阅读器：Agent 翻译 + 总结，用户点赞/屏蔽。",
-        "ja": "Agent が翻訳・要約した HackerNews。お気に入りとブロックに対応。"
-      },
-      "author": "aglet-dev",
-      "license": "MIT",
-      "icon": {
-        "fg": "fire-fill",
-        "bg": "#ff6600"
-      },
-      "category": "media",
-      "keywords": [
-        "hackernews",
-        "hn",
-        "reader",
-        "translated",
-        "chinese"
-      ],
-      "screenshots": [
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/0.webp",
-          "surface": "macos",
-          "theme": "dark",
-          "locale": "en",
-          "frame": "feed",
-          "caption": "Your feeds, beautifully native"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/1.webp",
-          "surface": "macos",
-          "theme": "dark",
-          "locale": "en",
-          "frame": "liked",
-          "caption": "Keep what you love"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/2.webp",
-          "surface": "macos",
-          "theme": "dark",
-          "locale": "en",
-          "frame": "blocked",
-          "caption": "Mute the noise"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/3.webp",
-          "surface": "macos",
-          "theme": "dark",
-          "locale": "zh",
-          "frame": "feed",
-          "caption": "原生质感的信息流"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/4.webp",
-          "surface": "macos",
-          "theme": "dark",
-          "locale": "zh",
-          "frame": "liked",
-          "caption": "收藏你喜欢的"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/5.webp",
-          "surface": "macos",
-          "theme": "dark",
-          "locale": "zh",
-          "frame": "blocked",
-          "caption": "屏蔽噪音"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/6.webp",
-          "surface": "macos",
-          "theme": "light",
-          "locale": "en",
-          "frame": "feed",
-          "caption": "Your feeds, beautifully native"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/7.webp",
-          "surface": "macos",
-          "theme": "light",
-          "locale": "en",
-          "frame": "liked",
-          "caption": "Keep what you love"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/8.webp",
-          "surface": "macos",
-          "theme": "light",
-          "locale": "en",
-          "frame": "blocked",
-          "caption": "Mute the noise"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/9.webp",
-          "surface": "macos",
-          "theme": "light",
-          "locale": "zh",
-          "frame": "feed",
-          "caption": "原生质感的信息流"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/10.webp",
-          "surface": "macos",
-          "theme": "light",
-          "locale": "zh",
-          "frame": "liked",
-          "caption": "收藏你喜欢的"
-        },
-        {
-          "url": "https://registry.aglet.dev/aglets/hn/0.1.3/screenshots/11.webp",
-          "surface": "macos",
-          "theme": "light",
-          "locale": "zh",
-          "frame": "blocked",
-          "caption": "屏蔽噪音"
-        }
-      ],
-      "platforms": [
-        "apple",
-        "android",
-        "windows"
-      ],
-      "latest": "0.1.3",
-      "updated_at": "2026-07-23T07:23:00Z"
     }
   ]
 }
